@@ -1,0 +1,10 @@
+# Pelican output folder
+docs/output/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
